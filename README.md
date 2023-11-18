@@ -2,9 +2,10 @@
 A simple calculator application built using ReactJS.
 
 Features:
- => Basic arithmetic operations: addition, subtraction, multiplication, and division.
- => Clear button to reset the calculator.
- => CSS styles to experience attractive user interface.
+
+ Basic arithmetic operations: addition, subtraction, multiplication, and division.
+ Clear button to reset the calculator.
+ CSS styles to experience attractive user interface.
  
 Prerequisites:
 
